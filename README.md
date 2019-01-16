@@ -1,2 +1,2 @@
-# lalitpec.github.io
+# lalits.github.io
 Website data for LSharma.com
